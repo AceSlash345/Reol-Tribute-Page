@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lan="en">
+<main id="main">
+  <head>
+  <div id="title" class="center">
+    <h1>
+    Reol, The Face of J-POP
+    </h1>
+  </div>
+  <div id="img-div"class="center">
+    <h2 >
+    <img id="image" src="https://pbs.twimg.com/media/Ee5OkPmVAAAtjDJ.jpg" width="100%">
+      <p class="left" id="img-caption">Reol sitting on a roof.
+      </p>
+    </h2>
+  </div>
+  </head>
+  <div id="subtitle" class="gray-box">
+    <h3 alt="REOL sitting." >
+    One of the best japanese artist you never heard of.
+  </h3>
+  </div>
+  
+  <div id="tribute-info" class="clear-box">
+   <body>
+    <p>
+    Reol (れをる, Reoru, born November 9, 1993) is a Japanese rapper, singer, songwriter and record producer. She began creating and releasing music onto Nico Nico Douga and YouTube in 2012, achieving recognition for writing and performing viral Vocaloid songs. She signed with the record label Toy's Factory in 2015, releasing her debut album, Gokusaishiki to commercial success.
+
+Reol formed the J-pop group REOL, composed of her long-time collaborators GigaP and Okiku, serving as its namesake and the lead vocalist. Their debut album, Sigma, was released in 2016 to widespread success and acclaim, peaking at number 6 on the Oricon Albums Chart, and number 9 on the Billboard Japan Hot 100. The group announced their disbandment in 2017, simultaneously releasing their final work, the extended play Endless.
+
+Reol signed with Victor Entertainment in 2018, releasing the single "Saisaki" which was internationally viral. Her following singles have received general commercial and viral success, leading her to be named "Artist on the Rise" by YouTube in 2020, being the first Japanese artist to achieve this.
+      If you want to learn more about Reol, <a id="tribute-link" target="_blank" href="https://utaite.fandom.com/wiki/Reol">click here for more</a>.
+    </p>
+    </body>
+  </div>
+</html>
